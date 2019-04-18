@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84911079-4089-4b22-a7d0-9eb94851c03d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-front-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/admin/Admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/mountains.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post/Comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post/EditPost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post/NewPost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post/SinglePost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/post/apiPost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/DeleteUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/FindPeople.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/FollowProfileButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/ForgotPassword.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/ProfileTabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/ResetPassword.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/Signin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/Signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/SocialLogin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/apiUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -119,11 +72,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/post/apiPost.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="124" column="13" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+            <state relative-caret-position="251">
+              <caret line="127" column="18" lean-forward="true" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="299">
+                <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -222,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/MainRouter.js" />
         <option value="$PROJECT_DIR$/src/user/EditProfile.js" />
         <option value="$PROJECT_DIR$/src/core/Menu.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -248,12 +214,6 @@
               <item name="book-facker" type="b2602c69:ProjectViewProjectNode" />
               <item name="book-facker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="book-facker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="book-facker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="post" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,12 +273,12 @@
       <workItem from="1554278738104" duration="14105000" />
       <workItem from="1554374838941" duration="6431000" />
       <workItem from="1555488152115" duration="4621000" />
-      <workItem from="1555575006311" duration="9450000" />
+      <workItem from="1555575006311" duration="10868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69186000" />
+    <option name="totallyTimeSpent" value="70604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -349,7 +309,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/assets/github/paper-dashboard-react.gif" />
     <entry file="file://$PROJECT_DIR$/src/assets/img/apple-icon.png" />
     <entry file="file://$PROJECT_DIR$/src/views/UserPage/UserPage.jsx" />
     <entry file="file://$PROJECT_DIR$/src/views/Dashboard/Dashboard.jsx" />
@@ -661,8 +620,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/post/apiPost.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="124" column="13" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
+        <state relative-caret-position="251">
+          <caret line="127" column="18" lean-forward="true" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="299">
+            <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
