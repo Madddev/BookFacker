@@ -70,7 +70,7 @@ class Menu extends React.Component {
                             {isAuthenticated() && (
                                 <>
                                     <NavItem>
-                                        <NavLink tag={Link} exact to={"/findpeople"} activeClassName="active">
+                                        <NavLink tag={Link} exact to={"/findpeople"}  activeClassName="active">
                                             Find People
                                         </NavLink>
                                     </NavItem>
@@ -80,7 +80,7 @@ class Menu extends React.Component {
                                         </NavLink>
                                     </NavItem>
                                     <NavItem>
-                                        <NavLink tag={Link} exact to={"/signout"}  activeClassName="active">
+                                        <NavLink tag={Link} exact to={"/signout"} onClick={() => signout()} activeClassName="active">
                                             Sign Out
                                         </NavLink>
                                     </NavItem>
